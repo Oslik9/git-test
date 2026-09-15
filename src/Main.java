@@ -6,5 +6,11 @@ public class Main {
         // Nemohl jsem se dočkat až zase vejdu dveřma do tak krásné budovy jako je OAUH a uvidím znovu všechny učitele.
         // Mám hlad
 
+        System.out.println("Matěj Vosáhlo");
+        System.out.println("Uherský Ostroh");
+        System.out.println("18 let");
+        System.out.println("telefonní číslo vám fakt dávat nebudu 😒");
+        System.out.println("ahoj");
+
     }
 }
