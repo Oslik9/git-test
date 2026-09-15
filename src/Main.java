@@ -1,16 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Matýsek");
-        // Jedl jsem.
-        // Těšil jsem se na programování
-        // O prázdninách mi chyběl pan učitel Knotek
-        // Miluju OAUH.
-        // jsem nejlepší programator
 
-        // Jmenuji se matěj
-        // Je mi 18
-        // Jsem z Ostrohu
-        // CHodím na OAUH
-        // Můj telefon ani email sem psát nebudu
+        // O prázdninách jsem se fakt těšil na programování a hlavně na pana učitele šimůnka protože je můj vzor.
+        // Nemohl jsem se dočkat až zase vejdu dveřma do tak krásné budovy jako je OAUH a uvidím znovu všechny učitele.
+
     }
 }
