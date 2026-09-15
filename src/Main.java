@@ -6,5 +6,11 @@ public class Main {
         // O prázdninách mi chyběl pan učitel Knotek
         // Miluju OAUH.
         // jsem nejlepší programator
+
+        // Jmenuji se matěj
+        // Je mi 18
+        // Jsem z Ostrohu
+        // CHodím na OAUH
+        // Můj telefon ani email sem psát nebudu
     }
 }
